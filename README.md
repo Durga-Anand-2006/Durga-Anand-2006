@@ -249,8 +249,6 @@ Led social media campaigns and event promotion for AI/tech events including *Bui
 
 </div>
 
-> Want a live contribution snake here too? Add the [platane/snk](https://github.com/Platane/snk) GitHub Action to this repo's workflows, it generates automatically on a schedule and I've left a slot for it below.
-
 ### Contribution Snake
 <img src="https://raw.githubusercontent.com/Durga-Anand-2006/Durga-Anand-2006/output/github-contribution-grid-snake.svg" />
 
