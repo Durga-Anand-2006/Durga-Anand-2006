@@ -140,7 +140,7 @@ Researched geospatial AI, location intelligence, and digital twins. Studied regr
 `Python` `GIS` `Esri` `Geospatial AI`
 
 **Event Support Coordinator** · Google Developer Group on Campus, Heriot-Watt Dubai
-*Oct 2025 – Present*
+*Oct 2025 – Jul 2026*
 
 End-to-end event planning and volunteer coordination; built registration forms, workshop materials, and post-event certificate distribution.
 `Event Ops` `Documentation` `Volunteer Coordination`
