@@ -281,7 +281,7 @@ Open To:
 
 <div align="center">
 
-*"Still growing as a developer, one commit, one club event, one recipe at a time."*
+*"Still growing as a developer, one project, one commit, one event at a time."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14231B,50:3F6B4C,100:1B2E23&height=120&section=footer" width="100%"/>
 
