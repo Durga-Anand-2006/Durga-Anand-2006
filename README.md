@@ -1,29 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1917,50:4c1d95,100:1e1b4b&height=220&section=header&text=Durga%20Anand&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20(AI)%20Student%20%7C%20Full%20Stack%20%2B%20AI%2FML%20%7C%20Dubai&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2E23,50:3F6B4C,100:14231B&height=220&section=header&text=Durga%20Anand&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20(AI)%20Student%20%7C%20Full%20Stack%20%2B%20AI%2FML%20%7C%20Dubai&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Computer+Science+(AI)+Undergraduate;Full-Stack+%2B+AI%2FML+Developer;GIS+%2B+Geospatial+AI+Intern;VP%2C+HW+Tech+Club" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9BC49A&center=true&vCenter=true&width=600&lines=Computer+Science+(AI)+Undergraduate;Full-Stack+%2B+AI%2FML+Developer;GIS+%2B+Geospatial+AI+Intern;VP%2C+HW+Tech+Club" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Position](https://img.shields.io/badge/Vice_President-HW_Tech_Club-4c1d95?style=for-the-badge&labelColor=1c1917)
-![Location](https://img.shields.io/badge/Based_in-Dubai%2C_UAE-6d28d9?style=for-the-badge&labelColor=1c1917)
-![Grad](https://img.shields.io/badge/Graduating-2028-7c3aed?style=for-the-badge&labelColor=1c1917)
+![Position](https://img.shields.io/badge/Vice_President-HW_Tech_Club-2E4F3A?style=for-the-badge&labelColor=1B2E23)
+![Location](https://img.shields.io/badge/Based_in-Dubai%2C_UAE-3F6B4C?style=for-the-badge&labelColor=1B2E23)
+![Grad](https://img.shields.io/badge/Graduating-2028-4F8058?style=for-the-badge&labelColor=1B2E23)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Durga-Anand-2006)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durga-anand-660565338/)
-[![Email](https://img.shields.io/badge/Email-4c1d95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Durga.anand311@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-1e1b4b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Durga-Anand-2006)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6FA179?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Durga-Anand-2006)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-3F6B4C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durga-anand-660565338/)
+[![Email](https://img.shields.io/badge/Email-2E4F3A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Durga.anand311@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-14231B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Durga-Anand-2006)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Durga-Anand-2006&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Durga-Anand-2006?style=for-the-badge&color=8b5cf6&labelColor=1c1917)
-![Stars](https://img.shields.io/github/stars/Durga-Anand-2006?style=for-the-badge&color=a78bfa&labelColor=1c1917)
+![Profile Views](https://komarev.com/ghpvc/?username=Durga-Anand-2006&style=for-the-badge&color=4F8058&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Durga-Anand-2006?style=for-the-badge&color=6FA179&labelColor=1B2E23)
+![Stars](https://img.shields.io/github/stars/Durga-Anand-2006?style=for-the-badge&color=9BC49A&labelColor=1B2E23)
 
 </div>
 
@@ -169,21 +169,21 @@ Led social media campaigns and event promotion for AI/tech events including *Bui
 ## 📜 Certifications
 
 **Coursera**
-![AI For Everyone](https://img.shields.io/badge/AI_For_Everyone-DeepLearning.AI-6d28d9?style=flat-square)
-![Intro to Generative AI](https://img.shields.io/badge/Intro_to_Generative_AI-Google_Cloud-6d28d9?style=flat-square)
-![Intro to AI](https://img.shields.io/badge/Intro_to_AI_(Honors)-IBM-6d28d9?style=flat-square)
-![Python for Data Science](https://img.shields.io/badge/Python_for_Data_Science%2C_AI_%26_Development-IBM-6d28d9?style=flat-square)
+![AI For Everyone](https://img.shields.io/badge/AI_For_Everyone-DeepLearning.AI-3F6B4C?style=flat-square)
+![Intro to Generative AI](https://img.shields.io/badge/Intro_to_Generative_AI-Google_Cloud-3F6B4C?style=flat-square)
+![Intro to AI](https://img.shields.io/badge/Intro_to_AI_(Honors)-IBM-3F6B4C?style=flat-square)
+![Python for Data Science](https://img.shields.io/badge/Python_for_Data_Science%2C_AI_%26_Development-IBM-3F6B4C?style=flat-square)
 
 **Microsoft**
-![Security Blueprint](https://img.shields.io/badge/Security%2C_Identity_%26_Compliance-Microsoft_Learn-4c1d95?style=flat-square)
-![UAE AI Academy](https://img.shields.io/badge/UAE_AI_Academy_Training-Microsoft_via_ZAKA-4c1d95?style=flat-square)
-![Azure AI Essentials](https://img.shields.io/badge/Azure_AI_Essentials-Microsoft_%26_LinkedIn_Learning-4c1d95?style=flat-square)
+![Security Blueprint](https://img.shields.io/badge/Security%2C_Identity_%26_Compliance-Microsoft_Learn-2E4F3A?style=flat-square)
+![UAE AI Academy](https://img.shields.io/badge/UAE_AI_Academy_Training-Microsoft_via_ZAKA-2E4F3A?style=flat-square)
+![Azure AI Essentials](https://img.shields.io/badge/Azure_AI_Essentials-Microsoft_%26_LinkedIn_Learning-2E4F3A?style=flat-square)
 
 **Google**
-![Boost Productivity](https://img.shields.io/badge/Boost_Productivity_with_AI-Google_via_INJAZ_UAE-7c3aed?style=flat-square)
+![Boost Productivity](https://img.shields.io/badge/Boost_Productivity_with_AI-Google_via_INJAZ_UAE-4F8058?style=flat-square)
 
 **Dubai Future Foundation**
-![1 Million Prompters](https://img.shields.io/badge/1_Million_Prompters-Prompt_Engineering_Initiative-1e1b4b?style=flat-square)
+![1 Million Prompters](https://img.shields.io/badge/1_Million_Prompters-Prompt_Engineering_Initiative-14231B?style=flat-square)
 
 <br/>
 
@@ -226,10 +226,11 @@ Led social media campaigns and event promotion for AI/tech events including *Bui
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Durga-Anand-2006&show_icons=true&hide=stars,prs,issues&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=8b5cf6&bg_color=1c1917&hide_border=true"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Durga-Anand-2006&stroke=ffffff&background=1c1917&ring=8b5cf6&fire=a78bfa&currStreakNum=ffffff&currStreakLabel=8b5cf6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Durga-Anand-2006&show_icons=true&hide=stars,prs,issues&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=6FA179&bg_color=1B2E23&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durga-Anand-2006&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=8b5cf6&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Durga-Anand-2006&stroke=ffffff&background=1B2E23&ring=6FA179&fire=9BC49A&currStreakNum=ffffff&currStreakLabel=6FA179&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durga-Anand-2006&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=6FA179&bg_color=1B2E23&hide_border=true&locale=en&custom_title=Top%20Languages"/>
 
 </div>
 
@@ -237,7 +238,7 @@ Led social media campaigns and event promotion for AI/tech events including *Bui
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Durga-Anand-2006&theme=algolia&no-frame=true&row=1&column=6)
+![trophy](https://github-profile-trophy.vercel.app/?username=Durga-Anand-2006&theme=forest&no-frame=true&row=1&column=6)
 
 </div>
 
@@ -245,7 +246,7 @@ Led social media campaigns and event promotion for AI/tech events including *Bui
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Durga-Anand-2006&theme=react-dark&bg_color=1c1917&color=a78bfa&line=8b5cf6&point=ffffff&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Durga-Anand-2006&theme=react-dark&bg_color=1B2E23&color=9BC49A&line=6FA179&point=ffffff&hide_border=true)
 
 </div>
 
@@ -262,8 +263,7 @@ Learning:
   - Advanced prompt engineering for LLM-powered apps
 
 Building:
-  - Bit Bulletin, HW Tech Club's weekly newsletter
-  - The 2026-27 HW Tech Club event calendar
+  - The 2026-27 HW Tech Club 
 
 Exploring:
   - Accessibility-focused GIS tooling
@@ -281,9 +281,9 @@ Open To:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/-Durga.anand311%40gmail.com-4c1d95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Durga.anand311@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-Durga_Anand-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durga-anand-660565338/)
-[![GitHub](https://img.shields.io/badge/-Durga--Anand--2006-1e1b4b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Durga-Anand-2006)
+[![Gmail](https://img.shields.io/badge/-Durga.anand311%40gmail.com-2E4F3A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Durga.anand311@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Durga_Anand-3F6B4C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durga-anand-660565338/)
+[![GitHub](https://img.shields.io/badge/-Durga--Anand--2006-14231B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Durga-Anand-2006)
 
 </div>
 
@@ -293,6 +293,6 @@ Open To:
 
 *"Still growing as a developer, one commit, one club event, one recipe at a time."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4c1d95,100:1c1917&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14231B,50:3F6B4C,100:1B2E23&height=120&section=footer" width="100%"/>
 
 </div>
