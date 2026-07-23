@@ -8,7 +8,7 @@
 
 <br/>
 
-![Academic](https://img.shields.io/badge/Deputy_Principal's_Award-Year_1-4c1d95?style=for-the-badge&labelColor=1c1917)
+![Position](https://img.shields.io/badge/Vice_President-HW_Tech_Club-4c1d95?style=for-the-badge&labelColor=1c1917)
 ![Location](https://img.shields.io/badge/Based_in-Dubai%2C_UAE-6d28d9?style=for-the-badge&labelColor=1c1917)
 ![Grad](https://img.shields.io/badge/Graduating-2028-7c3aed?style=for-the-badge&labelColor=1c1917)
 
