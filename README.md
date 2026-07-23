@@ -226,19 +226,9 @@ Led social media campaigns and event promotion for AI/tech events including *Bui
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Durga-Anand-2006&show_icons=true&hide=stars,prs,issues&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=6FA179&bg_color=1B2E23&hide_border=true"/>
 
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Durga-Anand-2006&stroke=ffffff&background=1B2E23&ring=6FA179&fire=9BC49A&currStreakNum=ffffff&currStreakLabel=6FA179&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durga-Anand-2006&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=6FA179&bg_color=1B2E23&hide_border=true&locale=en&custom_title=Top%20Languages"/>
-
-</div>
-
-## 🏅 Trophies
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Durga-Anand-2006&theme=forest&no-frame=true&row=1&column=6)
 
 </div>
 
