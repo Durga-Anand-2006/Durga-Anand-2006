@@ -39,6 +39,8 @@ I'm a third-year **Computer Science (Artificial Intelligence)** undergraduate at
 
 **Open to:** AI/ML internships, entry-level software engineering roles, and research collaboration opportunities.
 
+[Portfolio](https://durga-anand-2006.github.io/portfolio/#)
+
 <br/>
 
 ## 🛠️ Tech Stack
@@ -159,7 +161,7 @@ Led social media campaigns and event promotion for AI/tech events including *Bui
 
 | Recognition | Details |
 |---|---|
-| Deputy Principal's Award | Year 1, A grade across all 8 courses |
+| Deputy Principal's Award | Year 1 and Year 2, A grade across all courses |
 | VP, HW Tech Club | Elected to lead the club along with President |
 
 </div>
